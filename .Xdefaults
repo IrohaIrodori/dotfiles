@@ -1,0 +1,59 @@
+!  Xft Settings
+
+Xft.antialias:   true
+Xft.rgba:        rgb
+Xft.hinting:     true
+Xft.hintstyle:   hintslight
+Xft.autohint:    true
+
+! Terminal Settings
+
+XTerm*geometry:         90x30
+XTerm*loginShell:       true
+XTerm*internalBorder:   8
+
+XTerm*saveLines: 400
+XTerm*scrollBar: false
+
+XTerm*faceName: xft: Gohufont
+XTerm*faceSize: 14
+
+! Colors
+
+! Special
+*.foreground:   #bebebe
+*.background:   #101010
+*.cursorColor:  #cccccc
+
+! Black
+*.color0:       #101010
+*.color8:       #808080
+
+! Red
+*.color1:       #ff4040
+*.color9:       #ff4040
+
+! Green
+*.color2:       #00ff80
+*.color10:      #00ff80
+
+! Yellow
+*.color3:       #ffff40
+*.color11:      #ffff40
+
+! Blue
+*.color4:       #0080ff
+*.color12:      #0080ff
+
+! Magenta
+*.color5:       #ff40ff
+*.color13:      #ff40ff
+
+! Cyan
+*.color6:       #40ffff
+*.color14:      #40ffff
+
+! White
+*.color7:       #bebebe
+*.color15:      #ffffff
+
