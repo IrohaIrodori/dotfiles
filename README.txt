@@ -1,2 +1,1 @@
-# dotfiles
-My .files \(~*^ _ ^*~)/
+Plaintext is nice 
