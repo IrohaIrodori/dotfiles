@@ -4,7 +4,7 @@ sxhkd &
 xsetroot -cursor_name left_ptr &
 xsetroot -solid "#1d2323" &
 
-bspc monitor -d 1 2 3 4
+bspc monitor -d 1 2 3 4 5
 
 bspc config border_width         4
 bspc config window_gap           8
