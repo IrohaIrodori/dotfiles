@@ -20,40 +20,39 @@ XTerm*faceSize: 14
 
 ! Colors
 
-! Special
-*.foreground:   #bebebe
-*.background:   #101010
-*.cursorColor:  #cccccc
+! special
+*.foreground:   #c0b18b
+*.background:   #1f1f1f
+*.cursorColor:  #c0b18b
 
-! Black
-*.color0:       #101010
-*.color8:       #808080
+! black
+*.color0:       #4a3637
+*.color8:       #4a3637
 
-! Red
-*.color1:       #ff4040
-*.color9:       #ff4040
+! red
+*.color1:       #d17b49
+*.color9:       #d17b49
 
-! Green
-*.color2:       #00ff80
-*.color10:      #00ff80
+! green
+*.color2:       #7b8748
+*.color10:      #7b8748
 
-! Yellow
-*.color3:       #ffff40
-*.color11:      #ffff40
+! yellow
+*.color3:       #af865a
+*.color11:      #af865a
 
-! Blue
-*.color4:       #0080ff
-*.color12:      #0080ff
+! blue
+*.color4:       #535c5c
+*.color12:      #535c5c
 
-! Magenta
-*.color5:       #ff40ff
-*.color13:      #ff40ff
+! magenta
+*.color5:       #775759
+*.color13:      #775759
 
-! Cyan
-*.color6:       #40ffff
-*.color14:      #40ffff
+! cyan
+*.color6:       #6d715e
+*.color14:      #6d715e
 
-! White
-*.color7:       #bebebe
-*.color15:      #ffffff
-
+! white
+*.color7:       #c0b18b
+*.color15:      #c0b18b
