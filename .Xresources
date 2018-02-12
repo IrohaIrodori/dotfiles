@@ -8,51 +8,36 @@ Xft.autohint:    true
 
 ! Terminal Settings
 
-XTerm*geometry:         90x30
-XTerm*loginShell:       true
-XTerm*internalBorder:   8
+URxvt.geometry:         90x30
+URxvt.loginShell:       true
+URxvt.internalBorder:   8
 
-XTerm*saveLines: 400
-XTerm*scrollBar: false
+URxvt.saveLines: 400
+URxvt.scrollBar: false
 
-XTerm*faceName: xft: Gohufont
-XTerm*faceSize: 14
+URxvt.perl-ext:
+URxvt.perl-ext-common:
 
-! Colors
+URxvt.font: xft: Gohufont: size=14
 
-! special
-*.foreground:   #c0b18b
-*.background:   #1f1f1f
-*.cursorColor:  #c0b18b
+! Colors - Gruvbox 
 
-! black
-*.color0:       #4a3637
-*.color8:       #4a3637
-
-! red
-*.color1:       #d17b49
-*.color9:       #d17b49
-
-! green
-*.color2:       #7b8748
-*.color10:      #7b8748
-
-! yellow
-*.color3:       #af865a
-*.color11:      #af865a
-
-! blue
-*.color4:       #535c5c
-*.color12:      #535c5c
-
-! magenta
-*.color5:       #775759
-*.color13:      #775759
-
-! cyan
-*.color6:       #6d715e
-*.color14:      #6d715e
-
-! white
-*.color7:       #c0b18b
-*.color15:      #c0b18b
+*.cursorColor:  #d3869b
+*.foreground:   #ebdbb2
+*.background:   #282828
+*.color0:       #282828
+*.color1:       #cc241d
+*.color2:       #98971a
+*.color3:       #d79921
+*.color4:       #458588
+*.color5:       #b16286
+*.color6:       #689d6a
+*.color7:       #a89984
+*.color8:       #928374
+*.color9:       #fb4934
+*.color10:      #b8bb26
+*.color11:      #fabd2f
+*.color12:      #83a598
+*.color13:      #d3869b
+*.color14:      #8ec07c
+*.color15:      #ebdbb2
