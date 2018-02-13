@@ -16,10 +16,10 @@ XTerm.vt100.geometry:       90x25
 XTerm.vt100.internalBorder: 8
 XTerm.vt100.scrollBar:      false
 XTerm.vt100.saveLines:      256
-XTerm.vt100.faceName:       GohuFont
+XTerm.vt100.faceName:       Anonymous Pro
 XTerm.vt100.faceSize:       14
 
-! Colors - Gruvbox
+! Colors - Gruvbox 
 
 *.cursorColor:  #d3869b
 *.foreground:   #ebdbb2
@@ -40,4 +40,3 @@ XTerm.vt100.faceSize:       14
 *.color13:      #d3869b
 *.color14:      #8ec07c
 *.color15:      #ebdbb2
-
