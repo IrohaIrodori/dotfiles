@@ -1,8 +1,4 @@
-#  ____            _                       
-# |  _ \  _____  _| |_ _ __ ___  _   _ ___ 
-# | | | |/ _ \ \/ / __| '__/ _ \| | | / __|
-# | |_| |  __/>  <| |_| | | (_) | |_| \__ \
-# |____/ \___/_/\_\\__|_|  \___/ \__,_|___/
+# dex configuration
 
 alias cl close
 alias o open
@@ -13,4 +9,3 @@ alias t tag
 alias man "run man"
 alias make "compile gcc make"
 alias read "pass-through cat"
-
