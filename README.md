@@ -4,8 +4,6 @@
 > 
 > -Iroha Irodori
 
-![Image of Flip Flappers](https://www.wykop.pl/cdn/c3201142/comment_XjSYzLnwLXfKlqUYs9BzegLYKqhWyXq9.jpg)
-
 ### Software used
 * Void Linux
 * 2bwm
