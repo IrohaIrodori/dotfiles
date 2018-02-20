@@ -1,0 +1,35 @@
+# built-in binds
+#bind left left
+#bind right right
+#bind up up
+#bind down down
+#bind home bol
+#bind end eol
+#bind pgup pgup
+#bind pgdown pgdown
+#bind delete delete
+#bind ^\[ unselect
+#bind ^Z suspend
+#bind ^\? erase
+#bind ^H erase
+#bind ^C command
+
+bind ^left word-bwd
+bind ^right word-fwd
+bind ^up scroll-pgup
+bind ^down scroll-pgdown
+
+bind ^E undo
+bind ^R redo
+
+bind ^Y copy
+bind ^D cut
+bind ^P paste
+bind ^S select
+
+bind ^F format-paragraph
+
+bind ^Q delete-word
+bind ^W erase-word
+
+bind F1 "run man dex"
