@@ -1,11 +1,18 @@
 # dex configuration
 
-alias cl close
+include ~/.dex/binds
+include $PKGDATADIR/color/light
+include $PKGDATADIR/filetype
+
 alias o open
-alias q quit
-alias r replace
+alias cl close
 alias s save
+alias q quit
+alias qq "quit -f"
+alias sq "save; quit"
+
+alias r replace
 alias t tag
 alias man "run man"
-alias make "compile gcc make"
 alias read "pass-through cat"
+
