@@ -7,11 +7,12 @@
 ### Software used
 * Void Linux
 * dex
-* 2bwm
+* bspwm
 * sct
 * sxiv
 * mupdf
 * mpv
 * cmus
 * lynx
+* mutt
 * transmission-daemon
