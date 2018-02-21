@@ -7,6 +7,7 @@
 ### Software used
 * Void Linux
 * dex
+* urxvt
 * bspwm
 * sct
 * sxiv
