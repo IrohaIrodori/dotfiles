@@ -1,23 +1,15 @@
-!  Xft Settings
-
-Xft.dpi:         96
-Xft.antialias:   true
-Xft.rgba:        rgb
-Xft.autohint:    true
-Xft.hinting:     true
-Xft.hintstyle:   hintslight
-
 ! Terminal Settings
 
-XTerm.termName:             xterm
-XTerm.vt100.loginShell:     true
-XTerm.vt100.locale:         true
-XTerm.vt100.geometry:       90x25
-XTerm.vt100.internalBorder: 8
-XTerm.vt100.scrollBar:      false
-XTerm.vt100.saveLines:      256
-XTerm.vt100.faceName:       Anonymous Pro
-XTerm.vt100.faceSize:       14
+URxvt.loginShell:     true
+URxvt.geometry:       92x18
+URxvt.internalBorder: 8
+URxvt.scrollBar:      false
+URxvt.saveLines:      512
+
+URxvt.font: xft: M+ 1mn: size=14
+
+URxvt.perl-ext:
+URxvt.perl-ext-common:
 
 ! Colors - Gruvbox 
 
