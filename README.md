@@ -19,5 +19,5 @@
   * sxiv
   * transmission (daemon mode -- gui is for INSERT TERRY DAVIS)
   * urxvt
-* Font mplus 
+* Font [mplus](https://mplus-fonts.osdn.jp) 
 ###### *Lesser known programs are starred on my profile ^_^
