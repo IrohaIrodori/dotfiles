@@ -4,6 +4,9 @@
 > 
 > -Iroha Irodori
 
+I'm not a programmer and have no plans to on learning so make of that as you will...
+Regardless, write in C.
+
 #### Software used
 * Void Linux  
   * bspwm
