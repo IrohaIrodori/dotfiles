@@ -5,18 +5,19 @@
 > -Iroha Irodori
 
 #### Software used
-* Void Linux
-* dex*
-* urxvt
-* hsetroot
-* bspwm
-* launch*
-* sct*
-* sxiv
-* mupdf
-* mpv
-* cmus
-* lynx
-* mutt
-* transmission-daemon
+* Void Linux  
+  * bspwm
+  * cmus
+  * dex*
+  * hsetroot
+  * launch*
+  * lynx
+  * mpv
+  * mupdf
+  * mutt
+  * sct*
+  * sxiv
+  * transmission (daemon mode -- gui is for INSERT TERRY DAVIS)
+  * urxvt
+* Font mplus 
 ###### *Lesser known programs are starred on my profile ^_^
