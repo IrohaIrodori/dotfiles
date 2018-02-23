@@ -4,8 +4,7 @@
 > 
 > -Iroha Irodori
 
-### Software used
-###### Lesser known programs are starred on my profile ^_^
+#### Software used
 * Void Linux
 * dex
 * urxvt
@@ -19,3 +18,4 @@
 * lynx
 * mutt
 * transmission-daemon
+###### Lesser known programs are starred on my profile ^_^
