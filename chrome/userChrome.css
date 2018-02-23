@@ -1,0 +1,44 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+/* SIDEBAR */
+
+/* These change the color of the sidebar */
+#sidebar-header {
+  color: #fff !important;
+  background-color: #303030 !important;
+  -moz-appearance: none !important} 
+
+#sidebar-search-container, #bookmarks-view-children, #historyTree, #sidebar {
+  -moz-appearance: none !important;
+  background-color: #404040 !important;
+  color: #ccc}
+
+.sidebar-splitter {
+  border-right: 2px solid #000 !important;
+  -moz-appearance: none !important}
+
+/* Highlighted items */
+treechildren {
+
+/* These change the colors of the borders when selected/hovered */
+  --treechildren-selectedColor: none !important;
+  --treechildren-focusColor: rgb(123,195,255) !important;
+  --treechildren-hoverColor: none !important;
+  --treechildren-selectedFocusColor: rgb(205,232,255) !important;
+
+/* These change the background colors when hovered/selected */
+  --treechildren-selectedImage: linear-gradient(rgb(190,190,190), rgb(190,190,190)) !important; 
+  --treechildren-hoverImage: linear-gradient(rgb(34,85,170), rgb(34,85,170)) !important; 
+  --treechildren-hoverCurrentImage: linear-gradient(rgba(34,85,170,.16), rgba(34,85,170,.16)) !important;
+  --treechildren-hoverSelectedImage: linear-gradient(rgb(205,232,255), rgb(205,232,255)) !important}
+
+#bookmarks-view treechildren::-moz-tree-cell(selected),
+#historyTree treechildren::-moz-tree-cell(selected){
+  background-image: linear-gradient(rgb(40,40,40), rgb(40,40,40)) !important;
+  color: #000 !important}
+
+/* This changes the sidebar searchbar */
+#sidebar-search-container #search-box {
+  -moz-appearance: none !important;
+  background-color: #222 !important;
+  color: #fff !important}
