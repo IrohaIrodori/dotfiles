@@ -1,0 +1,20 @@
+# mutt configuration
+set editor = dex
+set realname = 'REAL NAME'
+set from = EMAIL
+set use_from = yes
+
+set imap_user = EMAIL
+set imap_pass = PASS
+set folder    = imaps://mail.cock.li/
+set spoolfile = +INBOX
+set record    = +Sent
+set smtp_url  = smtps://$imap_user:$imap_pass@mail.cock.li
+set ssl_force_tls = yes
+
+set header_cache = ~/.cache/mutt
+set message_cachedir = "~/.cache/mutt"
+
+unset imap_passive
+set imap_keepalive = 300
+set mail_check = 120
