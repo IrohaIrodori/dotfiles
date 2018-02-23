@@ -18,6 +18,7 @@ Regardless, write in C.
   * mpv
   * mupdf
   * mutt
+  * openvpn
   * sct*
   * sxiv
   * transmission (daemon mode -- gui is for INSERT TERRY DAVIS)
