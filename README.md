@@ -6,11 +6,11 @@
 
 #### Software used
 * Void Linux
-* dex
+* dex*
 * urxvt
 * bspwm
-* launch
-* sct
+* launch*
+* sct*
 * sxiv
 * mupdf
 * mpv
@@ -18,4 +18,4 @@
 * lynx
 * mutt
 * transmission-daemon
-###### Lesser known programs are starred on my profile ^_^
+###### *Lesser known programs are starred on my profile ^_^
