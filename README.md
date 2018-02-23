@@ -5,10 +5,12 @@
 > -Iroha Irodori
 
 ### Software used
+###### Lesser known programs are starred on my profile ^_^
 * Void Linux
 * dex
 * urxvt
 * bspwm
+* launch
 * sct
 * sxiv
 * mupdf
