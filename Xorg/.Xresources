@@ -1,7 +1,7 @@
 ! Terminal Settings
 
 URxvt.loginShell:     true
-URxvt.geometry:       92x18
+URxvt.geometry:       84x16
 URxvt.internalBorder: 8
 URxvt.scrollBar:      false
 URxvt.saveLines:      512
@@ -11,24 +11,30 @@ URxvt.font: xft: M+ 1mn: size=14
 URxvt.perl-ext:
 URxvt.perl-ext-common:
 
-! Colorscheme - Cheesecake Dark
-
-*.foreground:   #fcfae1
-*.background:   #404040
-*.cursorColor:  #f595a7
-*.color0:       #404040
-*.color8:       #262626
-*.color1:       #b9454b
-*.color9:       #e75252
-*.color2:       #bd8d46
-*.color10:      #dea552
-*.color3:       #f6e497
-*.color11:      #d1c180
-*.color4:       #f595a7
-*.color12:      #d1a5ad
-*.color5:       #d28e2a
-*.color13:      #b47a24
-*.color6:       #ebcd4f
-*.color14:      #b9a659
-*.color7:       #fcfae1
-*.color15:      #f3f2e7
+! Colorscheme
+*background: #282828
+*foreground: #ebdbb2
+! Black
+*color0:  #282828
+*color8:  #928374
+! Red
+*color1:  #cc241d
+*color9:  #fb4934
+! Green
+*color2:  #98971a
+*color10: #b8bb26
+! Yellow
+*color3:  #d79921
+*color11: #fabd2f
+! Blue
+*color4:  #458588
+*color12: #83a598
+! Magenta
+*color5:  #b16286
+*color13: #d3869b
+! Cyan
+*color6:  #689d6a
+*color14: #8ec07c
+! White
+*color7:  #a89984
+*color15: #ebdbb2
