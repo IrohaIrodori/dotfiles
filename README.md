@@ -11,7 +11,6 @@ Regardless, write in C.
 * Void Linux  
   * bspwm
   * cmus
-  * dex*
   * hsetroot
   * launch*
   * lynx
@@ -23,5 +22,6 @@ Regardless, write in C.
   * sxiv
   * transmission (daemon mode -- gui is for INSERT TERRY DAVIS)
   * urxvt
+  * vis
 * Font [mplus](https://mplus-fonts.osdn.jp) 
 ###### *Lesser known programs are starred on my profile ^_^
