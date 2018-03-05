@@ -9,19 +9,19 @@ Regardless, write in C.
 
 #### Software used
 * Void Linux  
-  * bspwm
+  * bspwm & sxhkd
   * cmus
   * hsetroot
   * launch*
-  * lynx
   * mpv
   * mupdf
   * mutt
   * openvpn
   * sct*
   * sxiv
-  * transmission (daemon mode -- gui is for INSERT TERRY DAVIS)
-  * urxvt
+  * transmission (daemon mode)
   * vis
+  * w3m
+  * xterm
 * Font [mplus](https://mplus-fonts.osdn.jp) 
 ###### *Lesser known programs are starred on my profile ^_^
