@@ -11,14 +11,13 @@ Regardless, write in C.
 * Void Linux  
   * bspwm & sxhkd
   * cmus
-  * hsetroot
+  * feh
   * launch*
   * mpv
   * mupdf
   * mutt
   * openvpn
   * sct*
-  * sxiv
   * transmission (daemon mode)
   * vis
   * w3m
