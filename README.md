@@ -14,7 +14,6 @@ Regardless, write in C.
   * launch*
   * mpv
   * mupdf
-  * mutt
   * openvpn
   * sct*
   * sxiv
