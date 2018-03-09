@@ -1,0 +1,4 @@
+editor vis
+use_cookie 0
+use_history 0
+extbrowser mpv -ytdl --vo=opengl,drm --ao=alsa
