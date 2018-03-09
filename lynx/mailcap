@@ -1,9 +1,0 @@
-# External media players
-audio/*; mpv --no-video %s; test=test -n "$DISPLAY"
-
-image/gif; sxiv -a %s; test=test -n "$DISPLAY"
-image/*; sxiv %s; test=test -n "$DISPLAY"
-
-video/*; mpv --fs %s; test=test -n "$DISPLAY"
-
-application/x-bittorrent; transmission-remote --no-start-paused -a -w ~/trnt/ %s; test=test -n "$DISPLAY"
