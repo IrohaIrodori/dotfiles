@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	urxvt
+	xterm
 
 # web browser
 super + e
