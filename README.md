@@ -23,4 +23,4 @@ Regardless, write in C.
   * xterm
 * Font [mplus](https://mplus-fonts.osdn.jp) 
 ###### *Lesser known programs are starred on my profile ^_^
-https://files.catbox.moe/vvtx1e.json
+https://a.pomf.space/wqslkplxvodp.json
