@@ -1,10 +1,10 @@
 ! Terminal Settings
 XTerm.vt100.loginShell:     true
-XTerm.vt100.geometry:       80x18
+XTerm.vt100.geometry:       72x20
 XTerm.vt100.internalBorder: 8
 XTerm.vt100.scrollBar:      false
 XTerm.vt100.saveLines:      512
-XTerm.vt100.faceName:       M+ 1mn
+XTerm.vt100.faceName:       DejaVu Sans Mono
 XTerm.vt100.faceSize:       14
 
 ! Colorscheme
